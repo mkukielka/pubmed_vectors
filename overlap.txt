@@ -1,0 +1,40 @@
+d271, y753, b873:
+benign neoplasm of left ovary
+surgical instruments, materials and neurological devices (including sutures) associated with adverse incidents
+nasopharyngeal myiasis
+
+b150, c189, c169:
+hepatitis a with hepatic coma
+malignant neoplasm of colon, unspecified
+malignant neoplasm of stomach, unspecified
+
+b182, r42, g219:
+chronic viral hepatitis c
+dizziness and giddiness
+secondary parkinsonism, unspecified
+
+n182, e800, l605:
+chronic kidney disease, stage 2 (mild)
+hereditary erythropoietic porphyria
+yellow nail syndrome
+
+f341, n806, n412:
+dysthymic disorder
+endometriosis in cutaneous scar
+abscess of prostate
+
+p190, c140, k30:
+metabolic acidemia in newborn first noted before onset of labor
+malignant neoplasm of pharynx, unspecified
+functional dyspepsia
+
+n420, d471, p0736:
+calculus of prostate
+chronic myeloproliferative disease
+preterm newborn, gestational age 33 completed weeks
+
+d023, q140, g729:
+carcinoma in situ of other parts of respiratory system
+congenital malformation of vitreous humor
+myopathy, unspecified
+
