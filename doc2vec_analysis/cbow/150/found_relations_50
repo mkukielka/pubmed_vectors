@@ -1,0 +1,272 @@
+p009 p110:
+    newborn affected by unspecified maternal condition || cerebral edema due to birth injury
+p233 h42:
+    congenital pneumonia due to streptococcus, group b || glaucoma in diseases classified elsewhere
+c111 m184:
+    malignant neoplasm of posterior wall of nasopharynx || other bilateral secondary osteoarthritis of first carpometacarpal joints
+e169 r411:
+    disorder of pancreatic internal secretion, unspecified || anterograde amnesia
+n442 d386:
+    benign cyst of testis || neoplasm of uncertain behavior of respiratory organ, unspecified
+d386 n442:
+    neoplasm of uncertain behavior of respiratory organ, unspecified || benign cyst of testis
+c182 t304:
+    malignant neoplasm of ascending colon || corrosion of unspecified body region, unspecified degree
+e301 f05:
+    precocious puberty || delirium due to known physiological condition
+k271 r143:
+    acute peptic ulcer, site unspecified, with perforation || flatulence
+b889 l235:
+    infestation, unspecified || allergic contact dermatitis due to other chemical products
+p156 r159:
+    subcutaneous fat necrosis due to birth injury || full incontinence of feces
+p013 e232:
+    newborn affected by polyhydramnios || diabetes insipidus
+d595 p370:
+    paroxysmal nocturnal hemoglobinuria [marchiafava-micheli] || congenital tuberculosis
+l235 b889:
+    allergic contact dermatitis due to other chemical products || infestation, unspecified
+d105 e270:
+    benign neoplasm of other parts of oropharynx || other adrenocortical overactivity
+n6022 c132:
+    fibroadenosis of left breast || malignant neoplasm of posterior wall of hypopharynx
+p148 n503:
+    birth injuries to other parts of peripheral nervous system || cyst of epididymis
+a222 m249:
+    gastrointestinal anthrax || joint derangement, unspecified
+g112 r008:
+    late-onset cerebellar ataxia || other abnormalities of heart beat
+z360 a308:
+    encounter for antenatal screening for chromosomal anomalies || other forms of leprosy
+b91 r75:
+    sequelae of poliomyelitis || inconclusive laboratory evidence of human immunodeficiency virus [hiv]
+a156 k254:
+    tuberculous pleurisy || chronic or unspecified gastric ulcer with hemorrhage
+n651 e321:
+    disproportion of reconstructed breast || abscess of thymus
+b661 f325:
+    clonorchiasis || major depressive disorder, single episode, in full remission
+o163 c430:
+    unspecified maternal hypertension, third trimester || malignant melanoma of lip
+p238 n219:
+    congenital pneumonia due to other organisms || calculus of lower urinary tract, unspecified
+n498 p234:
+    inflammatory disorders of other specified male genital organs || congenital pneumonia due to escherichia coli
+p153 r75:
+    birth injury to eye || inconclusive laboratory evidence of human immunodeficiency virus [hiv]
+d213 c161:
+    benign neoplasm of connective and other soft tissue of thorax || malignant neoplasm of fundus of stomach
+e275 n159:
+    adrenomedullary hyperfunction || renal tubulo-interstitial disease, unspecified
+p0449 c221:
+    newborn affected by maternal use of other drugs of addiction || intrahepatic bile duct carcinoma
+n812 a320:
+    incomplete uterovaginal prolapse || cutaneous listeriosis
+r482 i160:
+    apraxia || hypertensive urgency
+c677 n118:
+    malignant neoplasm of urachus || other chronic tubulo-interstitial nephritis
+a186 e310:
+    tuberculosis of (inner) (middle) ear || autoimmune polyglandular failure
+r75 p153:
+    inconclusive laboratory evidence of human immunodeficiency virus [hiv] || birth injury to eye
+j182 a310:
+    hypostatic pneumonia, unspecified organism || pulmonary mycobacterial infection
+d141 d249:
+    benign neoplasm of larynx || benign neoplasm of unspecified breast
+p104 e138:
+    tentorial tear due to birth injury || other specified diabetes mellitus with unspecified complications
+a57 j36:
+    chancroid || peritonsillar abscess
+d600 c463:
+    chronic acquired pure red cell aplasia || kaposi's sarcoma of lymph nodes
+n319 l138:
+    neuromuscular dysfunction of bladder, unspecified || other specified bullous disorders
+n209 m362:
+    urinary calculus, unspecified || hemophilic arthropathy
+l138 a305:
+    other specified bullous disorders || lepromatous leprosy
+p510 a630:
+    massive umbilical hemorrhage of newborn || anogenital (venereal) warts
+l280 n201:
+    lichen simplex chronicus || calculus of ureter
+p153 b91:
+    birth injury to eye || sequelae of poliomyelitis
+n33 n358:
+    bladder disorders in diseases classified elsewhere || other urethral stricture
+e65 d509:
+    localized adiposity || iron deficiency anemia, unspecified
+n922 a305:
+    excessive menstruation at puberty || lepromatous leprosy
+m249 a222:
+    joint derangement, unspecified || gastrointestinal anthrax
+d213 l131:
+    benign neoplasm of connective and other soft tissue of thorax || subcorneal pustular dermatitis
+o901 a199:
+    disruption of perineal obstetric wound || miliary tuberculosis, unspecified
+c161 d213:
+    malignant neoplasm of fundus of stomach || benign neoplasm of connective and other soft tissue of thorax
+c23 r194:
+    malignant neoplasm of gallbladder || change in bowel habit
+d023 n837:
+    carcinoma in situ of other parts of respiratory system || hematoma of broad ligament
+p220 r94138:
+    respiratory distress syndrome of newborn || abnormal results of other function studies of peripheral nervous system
+i280 n448:
+    arteriovenous fistula of pulmonary vessels || other noninflammatory disorders of the testis
+p019 d124:
+    newborn affected by maternal complication of pregnancy, unspecified || benign neoplasm of descending colon
+l131 d213:
+    subcorneal pustular dermatitis || benign neoplasm of connective and other soft tissue of thorax
+a308 z360:
+    other forms of leprosy || encounter for antenatal screening for chromosomal anomalies
+d224 f451:
+    melanocytic nevi of scalp and neck || undifferentiated somatoform disorder
+i310 r062:
+    chronic adhesive pericarditis || wheezing
+r008 g112:
+    other abnormalities of heart beat || late-onset cerebellar ataxia
+e162 d130:
+    hypoglycemia, unspecified || benign neoplasm of esophagus
+n343 r455:
+    urethral syndrome, unspecified || hostility
+n368 n735:
+    other specified disorders of urethra || female pelvic peritonitis, unspecified
+q270 n22:
+    congenital absence and hypoplasia of umbilical artery || calculus of urinary tract in diseases classified elsewhere
+a506 y842:
+    late congenital syphilis, latent || radiological procedure and radiotherapy as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure
+r455 n343:
+    hostility || urethral syndrome, unspecified
+m179 r803:
+    osteoarthritis of knee, unspecified || bence jones proteinuria
+g64 e341:
+    other disorders of peripheral nervous system || other hypersecretion of intestinal hormones
+n144 d385:
+    toxic nephropathy, not elsewhere classified || neoplasm of uncertain behavior of other respiratory organs
+d509 e65:
+    iron deficiency anemia, unspecified || localized adiposity
+k254 a156:
+    chronic or unspecified gastric ulcer with hemorrhage || tuberculous pleurisy
+m167 d890:
+    other unilateral secondary osteoarthritis of hip || polyclonal hypergammaglobulinemia
+r483 d290:
+    visual agnosia || benign neoplasm of penis
+z21 n828:
+    asymptomatic human immunodeficiency virus [hiv] infection status || other female genital tract fistulae
+c221 p0449:
+    intrahepatic bile duct carcinoma || newborn affected by maternal use of other drugs of addiction
+d127 q212:
+    benign neoplasm of rectosigmoid junction || atrioventricular septal defect
+y842 a506:
+    radiological procedure and radiotherapy as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure || late congenital syphilis, latent
+p529 k30:
+    intracranial (nontraumatic) hemorrhage of newborn, unspecified || functional dyspepsia
+l131 c161:
+    subcorneal pustular dermatitis || malignant neoplasm of fundus of stomach
+a362 d015:
+    laryngeal diphtheria || carcinoma in situ of liver, gallbladder and bile ducts
+e244 d380:
+    alcohol-induced pseudo-cushing's syndrome || neoplasm of uncertain behavior of larynx
+t304 c182:
+    corrosion of unspecified body region, unspecified degree || malignant neoplasm of ascending colon
+a159 p270:
+    respiratory tuberculosis unspecified || wilson-mikity syndrome
+e221 r400:
+    hyperprolactinemia || somnolence
+m273 c220:
+    alveolitis of jaws || liver cell carcinoma
+r143 k271:
+    flatulence || acute peptic ulcer, site unspecified, with perforation
+r350 c540:
+    frequency of micturition || malignant neoplasm of isthmus uteri
+a305 n319:
+    lepromatous leprosy || neuromuscular dysfunction of bladder, unspecified
+o80 p615:
+    encounter for full-term uncomplicated delivery || transient neonatal neutropenia
+n828 z21:
+    other female genital tract fistulae || asymptomatic human immunodeficiency virus [hiv] infection status
+d061 d229:
+    carcinoma in situ of exocervix || melanocytic nevi, unspecified
+r52 n816:
+    pain, unspecified || rectocele
+p260 j101:
+    tracheobronchial hemorrhage originating in the perinatal period || influenza due to other identified influenza virus with other respiratory manifestations
+r531 k141:
+    weakness || geographic tongue
+e310 a186:
+    autoimmune polyglandular failure || tuberculosis of (inner) (middle) ear
+e232 p013:
+    diabetes insipidus || newborn affected by polyhydramnios
+j101 p260:
+    influenza due to other identified influenza virus with other respiratory manifestations || tracheobronchial hemorrhage originating in the perinatal period
+b162 a190:
+    acute hepatitis b without delta-agent with hepatic coma || acute miliary tuberculosis of a single specified site
+e138 p104:
+    other specified diabetes mellitus with unspecified complications || tentorial tear due to birth injury
+p760 f202:
+    meconium plug syndrome || catatonic schizophrenia
+j36 a57:
+    peritonsillar abscess || chancroid
+c254 p031:
+    malignant neoplasm of endocrine pancreas || newborn affected by other malpresentation, malposition and disproportion during labor and delivery
+c467 n879:
+    kaposi's sarcoma of other sites || dysplasia of cervix uteri, unspecified
+k30 p529:
+    functional dyspepsia || intracranial (nontraumatic) hemorrhage of newborn, unspecified
+p154 c187:
+    birth injury to face || malignant neoplasm of sigmoid colon
+p048 p550:
+    newborn affected by other maternal noxious substances || rh isoimmunization of newborn
+r194 c23:
+    change in bowel habit || malignant neoplasm of gallbladder
+p0505 b958:
+    newborn light for gestational age, 1250-1499 grams || unspecified staphylococcus as the cause of diseases classified elsewhere
+a413 t3262:
+    sepsis due to hemophilus influenzae || corrosions involving 60-69% of body surface with 20-29% third degree corrosion
+k280 c55:
+    acute gastrojejunal ulcer with hemorrhage || malignant neoplasm of uterus, part unspecified
+f951 k219:
+    chronic motor or vocal tic disorder || gastro-esophageal reflux disease without esophagitis
+m169 n901:
+    osteoarthritis of hip, unspecified || moderate vulvar dysplasia
+c210 c410:
+    malignant neoplasm of anus, unspecified || malignant neoplasm of bones of skull and face
+p268 n990:
+    other pulmonary hemorrhages originating in the perinatal period || postprocedural (acute) (chronic) kidney failure
+c439 d67:
+    malignant melanoma of skin, unspecified || hereditary factor ix deficiency
+i745 n521:
+    embolism and thrombosis of iliac artery || erectile dysfunction due to diseases classified elsewhere
+a190 b162:
+    acute miliary tuberculosis of a single specified site || acute hepatitis b without delta-agent with hepatic coma
+i300 g55:
+    acute nonspecific idiopathic pericarditis || nerve root and plexus compressions in diseases classified elsewhere
+n412 a150:
+    abscess of prostate || tuberculosis of lung
+h42 p233:
+    glaucoma in diseases classified elsewhere || congenital pneumonia due to streptococcus, group b
+q229 c160:
+    congenital malformation of tricuspid valve, unspecified || malignant neoplasm of cardia
+d290 r483:
+    benign neoplasm of penis || visual agnosia
+a213 k117:
+    gastrointestinal tularemia || disturbances of salivary secretion
+r483 d137:
+    visual agnosia || benign neoplasm of endocrine pancreas
+p615 o80:
+    transient neonatal neutropenia || encounter for full-term uncomplicated delivery
+p0081 m318:
+    newborn affected by periodontal disease in mother || other specified necrotizing vasculopathies
+c259 j343:
+    malignant neoplasm of pancreas, unspecified || hypertrophy of nasal turbinates
+n816 r52:
+    rectocele || pain, unspecified
+k117 a213:
+    disturbances of salivary secretion || gastrointestinal tularemia
+f205 n398:
+    residual schizophrenia || other specified disorders of urinary system
+h2000 n732:
+    unspecified acute and subacute iridocyclitis || unspecified parametritis and pelvic cellulitis
+n922 n319:
+    excessive menstruation at puberty || neuromuscular dysfunction of bladder, unspecified
